@@ -1,1 +1,1 @@
-# practice_ga_docker_image
+# GA_docker_image
